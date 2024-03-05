@@ -25,7 +25,7 @@ unpack_zip <path_to_zip_archive>
 2. Переместите скрипт в директорию `/usr/local/bin` и переименуйте его в `unpack_zip`:
 
    ```bash
-   sudo cp unpack_zip.py /usr/local/bin/unpackzip
+   sudo cp unpack_zip.py /usr/local/bin/unpack_zip
    ```
 
 После этих шагов, вы сможете вызвать скрипт из любого места с помощью команды `unpack_zip`.
